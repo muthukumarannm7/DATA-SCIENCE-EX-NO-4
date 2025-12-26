@@ -40,7 +40,9 @@ The feature selection techniques used are:
 
 <img width="679" height="361" alt="image" src="https://github.com/user-attachments/assets/76cf49e8-543d-43f1-9db5-d5db53c20160" />
 
+
 <img width="492" height="210" alt="image" src="https://github.com/user-attachments/assets/b49e5d04-4e26-431d-a0d8-262a7dbcf995" />
+
 
 <img width="509" height="507" alt="image" src="https://github.com/user-attachments/assets/a82d108f-1f26-4108-844f-527618e2d0cb" />
 
