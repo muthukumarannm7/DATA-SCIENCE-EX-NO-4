@@ -104,4 +104,4 @@ The feature selection techniques used are:
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Therefore the codes are executed successfully
